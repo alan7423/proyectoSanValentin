@@ -50,7 +50,7 @@ function App() {
   },
   {
     id: 7,
-    description: "No dejes que el miedo te detenga.",
+    description: "No por favor amor por mi.",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
